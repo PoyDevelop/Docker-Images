@@ -1,0 +1,2 @@
+// รัน Node v8.17 ด้วยคำสั่ง "node ."
+// working = /usr/app
